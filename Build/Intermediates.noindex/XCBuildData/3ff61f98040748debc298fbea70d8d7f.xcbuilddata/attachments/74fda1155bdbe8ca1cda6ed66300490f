@@ -1,4 +1,0 @@
-module OpenAPIURLSession {
-header "OpenAPIURLSession-Swift.h"
-export *
-}

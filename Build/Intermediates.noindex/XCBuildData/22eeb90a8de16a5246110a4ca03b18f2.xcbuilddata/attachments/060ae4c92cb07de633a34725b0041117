@@ -1,4 +1,0 @@
-module OpenAPIRuntime {
-header "OpenAPIRuntime-Swift.h"
-export *
-}

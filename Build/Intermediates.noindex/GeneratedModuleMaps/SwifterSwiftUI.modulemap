@@ -1,4 +1,0 @@
-module SwifterSwiftUI {
-header "SwifterSwiftUI-Swift.h"
-export *
-}

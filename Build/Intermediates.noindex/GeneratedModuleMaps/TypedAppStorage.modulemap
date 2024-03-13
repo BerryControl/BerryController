@@ -1,4 +1,0 @@
-module TypedAppStorage {
-header "TypedAppStorage-Swift.h"
-export *
-}

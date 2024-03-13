@@ -1,4 +1,0 @@
-module OpenAPIKitCompat {
-header "OpenAPIKitCompat-Swift.h"
-export *
-}

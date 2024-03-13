@@ -1,4 +1,0 @@
-module _OpenAPIGeneratorCore {
-header "_OpenAPIGeneratorCore-Swift.h"
-export *
-}

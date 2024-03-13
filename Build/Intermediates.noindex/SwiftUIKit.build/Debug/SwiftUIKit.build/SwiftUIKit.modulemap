@@ -1,4 +1,0 @@
-module SwiftUIKit {
-header "SwiftUIKit-Swift.h"
-export *
-}
