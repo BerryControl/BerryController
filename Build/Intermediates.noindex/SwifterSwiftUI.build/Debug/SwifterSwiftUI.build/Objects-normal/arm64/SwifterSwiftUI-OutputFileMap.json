@@ -1,0 +1,178 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SwifterSwiftUI-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SwifterSwiftUI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SwifterSwiftUI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SwifterSwiftUI-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Combine/PropertyWrapper/PublishedOnMain.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/PublishedOnMain~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Combine/Publisher+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Publisher+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Combine/Subscribers+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Subscribers+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/Mutable.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Mutable~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/Optional+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Optional+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/PropertyWrapper/UserDefault.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefault~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/PropertyWrapper/UserDefaultCodable.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultCodable~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/PropertyWrapper/UserDefaultEnum.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/UserDefaultEnum~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/Foundation/Result+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Result+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/Binding+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Binding+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/Color+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Color+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/Image+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/Image+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/LinearGradient+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/LinearGradient+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/Modifiers/SizeViewModifier.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/SizeViewModifier~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/Utils/IfLet.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/IfLet~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/View+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/SwifterSwiftUI/Sources/SwifterSwiftUI/SwiftUI/View+Modifiers.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.dia",
+    "index-unit-output-path" : "/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/SwifterSwiftUI.build/Debug/SwifterSwiftUI.build/Objects-normal/arm64/View+Modifiers~partial.swiftmodule"
+  }
+}

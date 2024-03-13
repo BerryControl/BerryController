@@ -1,0 +1,36 @@
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Document/DocumentInfo.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DocumentInfo.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DocumentInfo.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DocumentInfo.swiftconstvalues"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DocumentInfo.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DocumentInfo.d"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Content/ContentEncoding.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/ContentEncoding.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/ContentEncoding.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/ContentEncoding.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/ContentEncoding.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/ContentEncoding.swiftdeps"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Document/DereferencedDocument.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedDocument.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedDocument.swiftconstvalues"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedDocument.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedDocument.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedDocument.swiftdeps"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Content/DereferencedContent.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContent.swiftconstvalues"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContent.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContent.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContent.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContent.dia"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Content/DereferencedContentEncoding.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContentEncoding.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContentEncoding.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContentEncoding.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContentEncoding.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/DereferencedContentEncoding.swiftconstvalues"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKit/Document/Document.swift":
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/Document.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/Document.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/Document.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/Document.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKit.build/Objects-normal/arm64/Document.swiftconstvalues"

@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/OpenAPIURLSession-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/OpenAPIURLSession-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/OpenAPIURLSession-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/OpenAPIURLSession-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/BufferedStream/BufferedStream.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BufferedStream~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/BufferedStream/Lock.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/Lock~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/URLSessionBidirectionalStreaming/BidirectionalStreamingURLSessionDelegate.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/BidirectionalStreamingURLSessionDelegate~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/URLSessionBidirectionalStreaming/HTTPBodyOutputStreamBridge.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/HTTPBodyOutputStreamBridge~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/URLSessionBidirectionalStreaming/URLSession+Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSession+Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-urlsession/Sources/OpenAPIURLSession/URLSessionTransport.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.dia",
+    "index-unit-output-path" : "/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-urlsession.build/Debug/OpenAPIURLSession.build/Objects-normal/arm64/URLSessionTransport~partial.swiftmodule"
+  }
+}

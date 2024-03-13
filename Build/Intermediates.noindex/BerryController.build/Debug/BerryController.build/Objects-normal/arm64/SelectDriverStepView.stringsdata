@@ -1,0 +1,20 @@
+{
+  "source": "/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/SelectDriverStepView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select Driver:"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      },
+      {
+        "comment": "",
+        "key": "Next"
+      }
+    ]
+  },
+  "version": 1
+}

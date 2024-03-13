@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/TypedAppStorage/Sources/TypedAppStorage/TypedAppStorage.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.dia",
+    "index-unit-output-path" : "/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/TypedAppStorage.build/Debug/TypedAppStorage.build/Objects-normal/arm64/TypedAppStorage~partial.swiftmodule"
+  }
+}

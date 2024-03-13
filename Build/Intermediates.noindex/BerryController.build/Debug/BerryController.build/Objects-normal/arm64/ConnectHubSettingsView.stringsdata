@@ -1,0 +1,16 @@
+{
+  "source": "/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/ConnectHubSettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "BerryController Hubs"
+      },
+      {
+        "comment": "",
+        "key": "%@"
+      }
+    ]
+  },
+  "version": 1
+}

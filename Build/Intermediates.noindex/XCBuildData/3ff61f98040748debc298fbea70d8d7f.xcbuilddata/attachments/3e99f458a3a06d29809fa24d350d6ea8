@@ -1,0 +1,368 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIKitCore-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIKitCore-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIKitCore-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIKitCore-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/AnyCodable/AnyCodable.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/AnyCodable~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Either/Either.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Either/Either+Codable.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+Codable~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Either/Either+CustomStringConvertible.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Either+CustomStringConvertible~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/CodingPathError.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CodingPathError~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/DecodingErrorExtensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DecodingErrorExtensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/DiggingError.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/DiggingError~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/EitherDecodeNoTypesMatchedErrorExtensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/EitherDecodeNoTypesMatchedErrorExtensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/InconsistencyError.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/InconsistencyError~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/OpenAPIDecodingErrors.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIDecodingErrors~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/OpenAPIError.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIError~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/OpenAPIWarning.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIWarning~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Encoding and Decoding Errors And Warnings/RequestDecodingError.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/RequestDecodingError~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/OpenAPIReference.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OpenAPIReference~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/OrderedDictionary/OrderedDictionary.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OrderedDictionary~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/OrderedDictionary/StringConvertibleHintProvider.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/StringConvertibleHintProvider~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Shared~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/CallbackURL.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/CallbackURL~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/ComponentKey.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ComponentKey~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/ContentType.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ContentType~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/Discriminator.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Discriminator~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/HttpMethod.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/HttpMethod~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/JSONSchemaPermissions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONSchemaPermissions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/JSONTypeFormat.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/JSONTypeFormat~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/OAuthFlows.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/OAuthFlows~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/ParameterContextLocation.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterContextLocation~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/ParameterSchemaContextStyle.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ParameterSchemaContextStyle~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/Path.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Path~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/ResponseStatusCode.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/ResponseStatusCode~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Shared/SecurityScheme.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/SecurityScheme~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/URLTemplate/URLTemplate.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/URLTemplate/URLTemplate+Parsing.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/URLTemplate+Parsing~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Utility/Container+DecodeURLAsString.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Container+DecodeURLAsString~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Utility/Optional+Zip.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Optional+Zip~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Utility/Result+Value.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Result+Value~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/OpenAPIKit/Sources/OpenAPIKitCore/Validatable.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.dia",
+    "index-unit-output-path" : "/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/OpenAPIKit.build/Debug/OpenAPIKitCore.build/Objects-normal/arm64/Validatable~partial.swiftmodule"
+  }
+}

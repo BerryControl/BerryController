@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Components/Container.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Container~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Components/Item.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Components/Separator.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Separator~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Config.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Config~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Effects/OffsetEffect.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/OffsetEffect~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Effects/ScaleXEffect.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/ScaleXEffect~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Helpers/Helpers.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Helpers~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Step.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Step~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/Steps.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/Steps~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Steps/Sources/Steps/StepsState.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.dia",
+    "index-unit-output-path" : "/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Steps.build/Debug/Steps.build/Objects-normal/arm64/StepsState~partial.swiftmodule"
+  }
+}

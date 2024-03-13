@@ -1,0 +1,12 @@
+{
+  "source": "/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/PairDeviceView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel"
+      }
+    ]
+  },
+  "version": 1
+}

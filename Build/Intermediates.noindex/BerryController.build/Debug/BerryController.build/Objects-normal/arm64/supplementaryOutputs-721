@@ -1,0 +1,18 @@
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/ConnectHubSettingsView.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectHubSettingsView.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectHubSettingsView.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectHubSettingsView.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectHubSettingsView.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectHubSettingsView.d"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/WebAPI/DevicePairingAPI.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicePairingAPI.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicePairingAPI.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicePairingAPI.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicePairingAPI.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicePairingAPI.swiftconstvalues"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/DevicesSettingsView.swift":
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicesSettingsView.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicesSettingsView.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicesSettingsView.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicesSettingsView.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DevicesSettingsView.swiftconstvalues"

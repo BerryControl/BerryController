@@ -1,0 +1,18 @@
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/WebAPI/Entities/DevicePairing/DeviceInfo.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceInfo.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceInfo.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceInfo.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceInfo.swiftdeps"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceInfo.swiftconstvalues"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Application/BerryControlHubBrowser.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/BerryControlHubBrowser.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/BerryControlHubBrowser.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/BerryControlHubBrowser.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/BerryControlHubBrowser.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/BerryControlHubBrowser.swiftconstvalues"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Generic/ConnectionRequiredView.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectionRequiredView.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectionRequiredView.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectionRequiredView.o"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectionRequiredView.swiftconstvalues"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ConnectionRequiredView.swiftdeps"

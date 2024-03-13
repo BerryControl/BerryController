@@ -1,0 +1,4 @@
+module Ciao {
+header "Ciao-Swift.h"
+export *
+}

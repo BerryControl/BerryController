@@ -1,0 +1,18 @@
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/SettingsView.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SettingsView.o"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SettingsView.swiftconstvalues"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SettingsView.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SettingsView.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SettingsView.swiftdeps"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/ContentView.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ContentView.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ContentView.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ContentView.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ContentView.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ContentView.dia"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/WebAPI/Entities/PairedDevices/DeviceCommand.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceCommand.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceCommand.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceCommand.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceCommand.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/DeviceCommand.swiftdeps"

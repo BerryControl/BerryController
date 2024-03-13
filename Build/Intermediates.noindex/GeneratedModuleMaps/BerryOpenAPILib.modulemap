@@ -1,0 +1,4 @@
+module BerryOpenAPILib {
+header "BerryOpenAPILib-Swift.h"
+export *
+}

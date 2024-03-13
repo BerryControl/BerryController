@@ -1,0 +1,18 @@
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/SelectDriverStepView.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDriverStepView.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDriverStepView.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDriverStepView.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDriverStepView.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDriverStepView.swiftdeps"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Extensions/ErrorAlerter+convenienceMethods.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ErrorAlerter+convenienceMethods.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ErrorAlerter+convenienceMethods.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ErrorAlerter+convenienceMethods.swiftconstvalues"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ErrorAlerter+convenienceMethods.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/ErrorAlerter+convenienceMethods.o"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/PairDeviceStatus.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairDeviceStatus.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairDeviceStatus.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairDeviceStatus.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairDeviceStatus.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairDeviceStatus.dia"

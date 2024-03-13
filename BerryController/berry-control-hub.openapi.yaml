@@ -1,0 +1,50 @@
+openapi: 3.0.3
+info:
+  title: BerryControl Hub API
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 0.1.0
+
+paths:
+  /v1/device-drivers:
+    get:
+      description: Read all installed device drivers
+      operationId: readDeviceDrivers
+      responses:
+        "200":
+          description: Successfully read the installed drivers
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DeviceDrivers"
+        "406":
+          description: Not Acceptable
+
+components:
+  schemas:
+    DeviceDriver:
+      type: object
+      properties:
+        pluginId:
+          type: string
+          format: uuid
+          description: The ID of the device driver.
+        displayName:
+          type: string
+          description: Name of the device driver; might be displayed in a UI.
+        description:
+          type: string
+          description: Description for the plugin that might be displayed in a UI.
+        authenticationMethod:
+          type: string
+          enum:
+            - NONE
+            - PIN
+            - PASSWORD
+            - USER_AND_PASSWORD
+          description: The authentication method to be used when connecting to a device provided by the driver.
+    DeviceDrivers:
+      type: array
+      items:
+        $ref: "#/components/schemas/DeviceDriver"

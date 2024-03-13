@@ -1,0 +1,4 @@
+module OpenAPIKitCore {
+header "OpenAPIKitCore-Swift.h"
+export *
+}

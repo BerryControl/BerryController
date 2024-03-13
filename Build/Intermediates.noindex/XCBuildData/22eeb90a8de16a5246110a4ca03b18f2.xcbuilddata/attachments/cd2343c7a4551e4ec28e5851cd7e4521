@@ -1,0 +1,4 @@
+module OpenAPIKit30 {
+header "OpenAPIKit30-Swift.h"
+export *
+}

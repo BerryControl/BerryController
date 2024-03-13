@@ -1,0 +1,40 @@
+{
+  "source": "/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/PairDeviceStepView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Please press the button 'Pair' to finish pairing of the device!"
+      },
+      {
+        "comment": "",
+        "key": "Please Enter the PIN %lld on the device."
+      },
+      {
+        "comment": "",
+        "key": "PASSWORD"
+      },
+      {
+        "comment": "",
+        "key": "USER_AND_PASSWORD"
+      },
+      {
+        "comment": "",
+        "key": "Back"
+      },
+      {
+        "comment": "",
+        "key": "Pair"
+      },
+      {
+        "comment": "",
+        "key": "PIN:"
+      },
+      {
+        "comment": "",
+        "key": "Enter PIN displayed on device"
+      }
+    ]
+  },
+  "version": 1
+}

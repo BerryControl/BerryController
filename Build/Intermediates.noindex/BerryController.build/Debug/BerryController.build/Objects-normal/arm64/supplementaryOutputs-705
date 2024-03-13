@@ -1,0 +1,18 @@
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/WebAPI/Entities/DevicePairing/FinalizedPairing.swift":
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/FinalizedPairing.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/FinalizedPairing.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/FinalizedPairing.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/FinalizedPairing.swiftconstvalues"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/FinalizedPairing.d"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/Views/Settings/DeviceSettings/PairDevice/SelectDeviceStepView.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDeviceStepView.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDeviceStepView.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDeviceStepView.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDeviceStepView.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/SelectDeviceStepView.swiftconstvalues"
+"/Users/thomas/Projects/Universal/BerryControl/BerryController/BerryController/Sources/WebAPI/Entities/DevicePairing/PairingRequest.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairingRequest.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairingRequest.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairingRequest.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairingRequest.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/BerryController.build/Debug/BerryController.build/Objects-normal/arm64/PairingRequest.swiftconstvalues"

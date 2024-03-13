@@ -7,19 +7,83 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E93673D52B6B72E100FDD8B7 /* BerryControlHubBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93673D42B6B72E100FDD8B7 /* BerryControlHubBrowser.swift */; };
+		E93673D82B6BB70A00FDD8B7 /* Ciao in Frameworks */ = {isa = PBXBuildFile; productRef = E93673D72B6BB70A00FDD8B7 /* Ciao */; };
+		E93673DA2B6E24D600FDD8B7 /* DevicesSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93673D92B6E24D600FDD8B7 /* DevicesSettingsView.swift */; };
+		E93673FF2B8C630C00FDD8B7 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93673FE2B8C630C00FDD8B7 /* SettingsView.swift */; };
+		E93674012B8D029100FDD8B7 /* ConfiguredDevicesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93674002B8D029100FDD8B7 /* ConfiguredDevicesList.swift */; };
 		E967216A2B66D9070018ACDD /* BerryControllerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96721692B66D9070018ACDD /* BerryControllerApp.swift */; };
 		E967216C2B66D9070018ACDD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E967216B2B66D9070018ACDD /* ContentView.swift */; };
 		E967216E2B66D9090018ACDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E967216D2B66D9090018ACDD /* Assets.xcassets */; };
 		E96721722B66D9090018ACDD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E96721712B66D9090018ACDD /* Preview Assets.xcassets */; };
+		E967218A2B67C6F40018ACDD /* BerryOpenAPILib in Frameworks */ = {isa = PBXBuildFile; productRef = E96721892B67C6F40018ACDD /* BerryOpenAPILib */; };
+		E9918E282B9FA7AF00EFC8FC /* DeviceCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9918E272B9FA7AF00EFC8FC /* DeviceCommand.swift */; };
+		E9918E2A2B9FAB6900EFC8FC /* RemoteLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9918E292B9FAB6900EFC8FC /* RemoteLayout.swift */; };
+		E9918E2D2B9FAEEB00EFC8FC /* RemoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9918E2C2B9FAEEB00EFC8FC /* RemoteView.swift */; };
+		E9D20FD02B8D06F200890873 /* Steps in Frameworks */ = {isa = PBXBuildFile; productRef = E9D20FCF2B8D06F200890873 /* Steps */; };
+		E9D20FD42B8D083D00890873 /* PairDeviceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FD32B8D083D00890873 /* PairDeviceView.swift */; };
+		E9D20FD82B8D1AF900890873 /* PairDeviceStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FD72B8D1AF900890873 /* PairDeviceStep.swift */; };
+		E9D20FE02B8DAA8600890873 /* SelectDriverStepView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FDF2B8DAA8600890873 /* SelectDriverStepView.swift */; };
+		E9D20FE32B8DB95900890873 /* DevicePairingAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FE22B8DB95900890873 /* DevicePairingAPI.swift */; };
+		E9D20FE92B8E541700890873 /* TypedAppStorage in Frameworks */ = {isa = PBXBuildFile; productRef = E9D20FE82B8E541700890873 /* TypedAppStorage */; };
+		E9D20FED2B8E547500890873 /* ConnectedBerryControlHub.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FEC2B8E547500890873 /* ConnectedBerryControlHub.swift */; };
+		E9D20FEF2B8E559800890873 /* ConnectHubSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FEE2B8E559800890873 /* ConnectHubSettingsView.swift */; };
+		E9D20FF12B90519500890873 /* ConnectionRequiredView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FF02B90519500890873 /* ConnectionRequiredView.swift */; };
+		E9D20FF72B91A22700890873 /* DeviceDriver.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FF62B91A22700890873 /* DeviceDriver.swift */; };
+		E9D20FF92B91A67C00890873 /* WebAPIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FF82B91A67C00890873 /* WebAPIError.swift */; };
+		E9D20FFB2B93469A00890873 /* PairDeviceStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FFA2B93469A00890873 /* PairDeviceStatus.swift */; };
+		E9D20FFD2B9347AE00890873 /* SelectDeviceStepView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FFC2B9347AE00890873 /* SelectDeviceStepView.swift */; };
+		E9D20FFF2B93798C00890873 /* DeviceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D20FFE2B93798C00890873 /* DeviceInfo.swift */; };
+		E9D210012B937C4300890873 /* PairDeviceStepView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210002B937C4300890873 /* PairDeviceStepView.swift */; };
+		E9D210032B937DF700890873 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210022B937DF700890873 /* LoadingView.swift */; };
+		E9D210052B94910400890873 /* PairingRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210042B94910400890873 /* PairingRequest.swift */; };
+		E9D210072B94A00E00890873 /* DeviceInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210062B94A00E00890873 /* DeviceInformation.swift */; };
+		E9D210092B950F2A00890873 /* FinalizedPairing.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210082B950F2A00890873 /* FinalizedPairing.swift */; };
+		E9D2100B2B97105B00890873 /* PairedDevicesAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D2100A2B97105B00890873 /* PairedDevicesAPI.swift */; };
+		E9D2100E2B97780100890873 /* PairedDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D2100D2B97780100890873 /* PairedDevice.swift */; };
+		E9D210112B98E85600890873 /* SwiftUIKit in Frameworks */ = {isa = PBXBuildFile; productRef = E9D210102B98E85600890873 /* SwiftUIKit */; };
+		E9D210142B9981E700890873 /* ErrorAlerter+convenienceMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210132B9981E700890873 /* ErrorAlerter+convenienceMethods.swift */; };
+		E9D210162B9A581000890873 /* DevicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D210152B9A581000890873 /* DevicesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E93673D42B6B72E100FDD8B7 /* BerryControlHubBrowser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerryControlHubBrowser.swift; sourceTree = "<group>"; };
+		E93673D92B6E24D600FDD8B7 /* DevicesSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicesSettingsView.swift; sourceTree = "<group>"; };
+		E93673FE2B8C630C00FDD8B7 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		E93674002B8D029100FDD8B7 /* ConfiguredDevicesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfiguredDevicesList.swift; sourceTree = "<group>"; };
 		E96721662B66D9070018ACDD /* BerryController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BerryController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96721692B66D9070018ACDD /* BerryControllerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerryControllerApp.swift; sourceTree = "<group>"; };
 		E967216B2B66D9070018ACDD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E967216D2B66D9090018ACDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E967216F2B66D9090018ACDD /* BerryController.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BerryController.entitlements; sourceTree = "<group>"; };
 		E96721712B66D9090018ACDD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E96721862B6746FD0018ACDD /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = SOURCE_ROOT; };
+		E96721872B6747400018ACDD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		E9918E272B9FA7AF00EFC8FC /* DeviceCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceCommand.swift; sourceTree = "<group>"; };
+		E9918E292B9FAB6900EFC8FC /* RemoteLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteLayout.swift; sourceTree = "<group>"; };
+		E9918E2C2B9FAEEB00EFC8FC /* RemoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteView.swift; sourceTree = "<group>"; };
+		E9D20FD32B8D083D00890873 /* PairDeviceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairDeviceView.swift; sourceTree = "<group>"; };
+		E9D20FD72B8D1AF900890873 /* PairDeviceStep.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairDeviceStep.swift; sourceTree = "<group>"; };
+		E9D20FDF2B8DAA8600890873 /* SelectDriverStepView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectDriverStepView.swift; sourceTree = "<group>"; };
+		E9D20FE22B8DB95900890873 /* DevicePairingAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicePairingAPI.swift; sourceTree = "<group>"; };
+		E9D20FEC2B8E547500890873 /* ConnectedBerryControlHub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectedBerryControlHub.swift; sourceTree = "<group>"; };
+		E9D20FEE2B8E559800890873 /* ConnectHubSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectHubSettingsView.swift; sourceTree = "<group>"; };
+		E9D20FF02B90519500890873 /* ConnectionRequiredView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionRequiredView.swift; sourceTree = "<group>"; };
+		E9D20FF32B910A5700890873 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E9D20FF62B91A22700890873 /* DeviceDriver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceDriver.swift; sourceTree = "<group>"; };
+		E9D20FF82B91A67C00890873 /* WebAPIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebAPIError.swift; sourceTree = "<group>"; };
+		E9D20FFA2B93469A00890873 /* PairDeviceStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairDeviceStatus.swift; sourceTree = "<group>"; };
+		E9D20FFC2B9347AE00890873 /* SelectDeviceStepView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectDeviceStepView.swift; sourceTree = "<group>"; };
+		E9D20FFE2B93798C00890873 /* DeviceInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceInfo.swift; sourceTree = "<group>"; };
+		E9D210002B937C4300890873 /* PairDeviceStepView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairDeviceStepView.swift; sourceTree = "<group>"; };
+		E9D210022B937DF700890873 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		E9D210042B94910400890873 /* PairingRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairingRequest.swift; sourceTree = "<group>"; };
+		E9D210062B94A00E00890873 /* DeviceInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceInformation.swift; sourceTree = "<group>"; };
+		E9D210082B950F2A00890873 /* FinalizedPairing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalizedPairing.swift; sourceTree = "<group>"; };
+		E9D2100A2B97105B00890873 /* PairedDevicesAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairedDevicesAPI.swift; sourceTree = "<group>"; };
+		E9D2100D2B97780100890873 /* PairedDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairedDevice.swift; sourceTree = "<group>"; };
+		E9D210132B9981E700890873 /* ErrorAlerter+convenienceMethods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ErrorAlerter+convenienceMethods.swift"; sourceTree = "<group>"; };
+		E9D210152B9A581000890873 /* DevicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +91,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9D20FD02B8D06F200890873 /* Steps in Frameworks */,
+				E93673D82B6BB70A00FDD8B7 /* Ciao in Frameworks */,
+				E967218A2B67C6F40018ACDD /* BerryOpenAPILib in Frameworks */,
+				E9D210112B98E85600890873 /* SwiftUIKit in Frameworks */,
+				E9D20FE92B8E541700890873 /* TypedAppStorage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,11 +121,11 @@
 		E96721682B66D9070018ACDD /* BerryController */ = {
 			isa = PBXGroup;
 			children = (
-				E96721692B66D9070018ACDD /* BerryControllerApp.swift */,
-				E967216B2B66D9070018ACDD /* ContentView.swift */,
-				E967216D2B66D9090018ACDD /* Assets.xcassets */,
-				E967216F2B66D9090018ACDD /* BerryController.entitlements */,
-				E96721702B66D9090018ACDD /* Preview Content */,
+				E9D20FF32B910A5700890873 /* Info.plist */,
+				E96721862B6746FD0018ACDD /* LICENSE.md */,
+				E96721872B6747400018ACDD /* README.md */,
+				E96721812B66DA840018ACDD /* Sources */,
+				E96721852B6746900018ACDD /* Resources */,
 			);
 			path = BerryController;
 			sourceTree = "<group>";
@@ -67,6 +136,165 @@
 				E96721712B66D9090018ACDD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E96721812B66DA840018ACDD /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				E96721822B66DA910018ACDD /* Application */,
+				E9D20FEA2B8E544B00890873 /* Entities */,
+				E9D210122B9981B800890873 /* Extensions */,
+				E96721832B66DA9F0018ACDD /* Views */,
+				E9D20FE12B8DB91700890873 /* WebAPI */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		E96721822B66DA910018ACDD /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				E96721692B66D9070018ACDD /* BerryControllerApp.swift */,
+				E93673D42B6B72E100FDD8B7 /* BerryControlHubBrowser.swift */,
+				E9D210062B94A00E00890873 /* DeviceInformation.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		E96721832B66DA9F0018ACDD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E967216B2B66D9070018ACDD /* ContentView.swift */,
+				E9918E2B2B9FAEB700EFC8FC /* DevicesView */,
+				E9D20FF22B90534E00890873 /* Generic */,
+				E967218B2B67C7E50018ACDD /* Settings */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E96721852B6746900018ACDD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E967216D2B66D9090018ACDD /* Assets.xcassets */,
+				E967216F2B66D9090018ACDD /* BerryController.entitlements */,
+				E96721702B66D9090018ACDD /* Preview Content */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		E967218B2B67C7E50018ACDD /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				E93673FE2B8C630C00FDD8B7 /* SettingsView.swift */,
+				E9D20FEE2B8E559800890873 /* ConnectHubSettingsView.swift */,
+				E9D20FD12B8D070000890873 /* DeviceSettings */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		E9918E2B2B9FAEB700EFC8FC /* DevicesView */ = {
+			isa = PBXGroup;
+			children = (
+				E9D210152B9A581000890873 /* DevicesView.swift */,
+				E9918E2C2B9FAEEB00EFC8FC /* RemoteView.swift */,
+			);
+			path = DevicesView;
+			sourceTree = "<group>";
+		};
+		E9D20FD12B8D070000890873 /* DeviceSettings */ = {
+			isa = PBXGroup;
+			children = (
+				E93673D92B6E24D600FDD8B7 /* DevicesSettingsView.swift */,
+				E93674002B8D029100FDD8B7 /* ConfiguredDevicesList.swift */,
+				E9D20FD22B8D081F00890873 /* PairDevice */,
+			);
+			path = DeviceSettings;
+			sourceTree = "<group>";
+		};
+		E9D20FD22B8D081F00890873 /* PairDevice */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FD72B8D1AF900890873 /* PairDeviceStep.swift */,
+				E9D20FFA2B93469A00890873 /* PairDeviceStatus.swift */,
+				E9D20FD32B8D083D00890873 /* PairDeviceView.swift */,
+				E9D20FDF2B8DAA8600890873 /* SelectDriverStepView.swift */,
+				E9D20FFC2B9347AE00890873 /* SelectDeviceStepView.swift */,
+				E9D210002B937C4300890873 /* PairDeviceStepView.swift */,
+			);
+			path = PairDevice;
+			sourceTree = "<group>";
+		};
+		E9D20FE12B8DB91700890873 /* WebAPI */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FE22B8DB95900890873 /* DevicePairingAPI.swift */,
+				E9D2100A2B97105B00890873 /* PairedDevicesAPI.swift */,
+				E9D20FF82B91A67C00890873 /* WebAPIError.swift */,
+				E9D20FF42B91A1F500890873 /* Entities */,
+			);
+			path = WebAPI;
+			sourceTree = "<group>";
+		};
+		E9D20FEA2B8E544B00890873 /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FEB2B8E545800890873 /* AppStorage */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		E9D20FEB2B8E545800890873 /* AppStorage */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FEC2B8E547500890873 /* ConnectedBerryControlHub.swift */,
+			);
+			path = AppStorage;
+			sourceTree = "<group>";
+		};
+		E9D20FF22B90534E00890873 /* Generic */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FF02B90519500890873 /* ConnectionRequiredView.swift */,
+				E9D210022B937DF700890873 /* LoadingView.swift */,
+			);
+			path = Generic;
+			sourceTree = "<group>";
+		};
+		E9D20FF42B91A1F500890873 /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FF52B91A20400890873 /* DevicePairing */,
+				E9D2100C2B9777E200890873 /* PairedDevices */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		E9D20FF52B91A20400890873 /* DevicePairing */ = {
+			isa = PBXGroup;
+			children = (
+				E9D20FF62B91A22700890873 /* DeviceDriver.swift */,
+				E9D20FFE2B93798C00890873 /* DeviceInfo.swift */,
+				E9D210042B94910400890873 /* PairingRequest.swift */,
+				E9D210082B950F2A00890873 /* FinalizedPairing.swift */,
+			);
+			path = DevicePairing;
+			sourceTree = "<group>";
+		};
+		E9D2100C2B9777E200890873 /* PairedDevices */ = {
+			isa = PBXGroup;
+			children = (
+				E9D2100D2B97780100890873 /* PairedDevice.swift */,
+				E9918E272B9FA7AF00EFC8FC /* DeviceCommand.swift */,
+				E9918E292B9FAB6900EFC8FC /* RemoteLayout.swift */,
+			);
+			path = PairedDevices;
+			sourceTree = "<group>";
+		};
+		E9D210122B9981B800890873 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				E9D210132B9981E700890873 /* ErrorAlerter+convenienceMethods.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +313,13 @@
 			dependencies = (
 			);
 			name = BerryController;
+			packageProductDependencies = (
+				E96721892B67C6F40018ACDD /* BerryOpenAPILib */,
+				E93673D72B6BB70A00FDD8B7 /* Ciao */,
+				E9D20FCF2B8D06F200890873 /* Steps */,
+				E9D20FE82B8E541700890873 /* TypedAppStorage */,
+				E9D210102B98E85600890873 /* SwiftUIKit */,
+			);
 			productName = BerryController;
 			productReference = E96721662B66D9070018ACDD /* BerryController.app */;
 			productType = "com.apple.product-type.application";
@@ -97,7 +332,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1510;
-				LastUpgradeCheck = 1510;
+				LastUpgradeCheck = 1520;
 				TargetAttributes = {
 					E96721652B66D9070018ACDD = {
 						CreatedOnToolsVersion = 15.1;
@@ -113,6 +348,13 @@
 				Base,
 			);
 			mainGroup = E967215D2B66D9070018ACDD;
+			packageReferences = (
+				E96721882B67C6F40018ACDD /* XCRemoteSwiftPackageReference "berry-openapi-lib" */,
+				E93673D62B6BB70A00FDD8B7 /* XCRemoteSwiftPackageReference "Ciao" */,
+				E9D20FCE2B8D06F200890873 /* XCRemoteSwiftPackageReference "Steps" */,
+				E9D20FE72B8E541700890873 /* XCRemoteSwiftPackageReference "TypedAppStorage" */,
+				E9D2100F2B98E85600890873 /* XCRemoteSwiftPackageReference "SwiftUIKit" */,
+			);
 			productRefGroup = E96721672B66D9070018ACDD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -139,8 +381,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9D20FE02B8DAA8600890873 /* SelectDriverStepView.swift in Sources */,
+				E9D210142B9981E700890873 /* ErrorAlerter+convenienceMethods.swift in Sources */,
+				E9D20FFB2B93469A00890873 /* PairDeviceStatus.swift in Sources */,
+				E93673FF2B8C630C00FDD8B7 /* SettingsView.swift in Sources */,
 				E967216C2B66D9070018ACDD /* ContentView.swift in Sources */,
+				E9918E282B9FA7AF00EFC8FC /* DeviceCommand.swift in Sources */,
+				E9D20FFD2B9347AE00890873 /* SelectDeviceStepView.swift in Sources */,
+				E9D210052B94910400890873 /* PairingRequest.swift in Sources */,
+				E9D210092B950F2A00890873 /* FinalizedPairing.swift in Sources */,
+				E9D20FD82B8D1AF900890873 /* PairDeviceStep.swift in Sources */,
+				E9D2100E2B97780100890873 /* PairedDevice.swift in Sources */,
 				E967216A2B66D9070018ACDD /* BerryControllerApp.swift in Sources */,
+				E9D20FFF2B93798C00890873 /* DeviceInfo.swift in Sources */,
+				E93673D52B6B72E100FDD8B7 /* BerryControlHubBrowser.swift in Sources */,
+				E9D20FF12B90519500890873 /* ConnectionRequiredView.swift in Sources */,
+				E9918E2A2B9FAB6900EFC8FC /* RemoteLayout.swift in Sources */,
+				E9D20FF72B91A22700890873 /* DeviceDriver.swift in Sources */,
+				E9D210162B9A581000890873 /* DevicesView.swift in Sources */,
+				E9D20FD42B8D083D00890873 /* PairDeviceView.swift in Sources */,
+				E9D20FED2B8E547500890873 /* ConnectedBerryControlHub.swift in Sources */,
+				E9D210032B937DF700890873 /* LoadingView.swift in Sources */,
+				E93673DA2B6E24D600FDD8B7 /* DevicesSettingsView.swift in Sources */,
+				E9D20FE32B8DB95900890873 /* DevicePairingAPI.swift in Sources */,
+				E9D20FEF2B8E559800890873 /* ConnectHubSettingsView.swift in Sources */,
+				E9918E2D2B9FAEEB00EFC8FC /* RemoteView.swift in Sources */,
+				E9D2100B2B97105B00890873 /* PairedDevicesAPI.swift in Sources */,
+				E9D20FF92B91A67C00890873 /* WebAPIError.swift in Sources */,
+				E93674012B8D029100FDD8B7 /* ConfiguredDevicesList.swift in Sources */,
+				E9D210072B94A00E00890873 /* DeviceInformation.swift in Sources */,
+				E9D210012B937C4300890873 /* PairDeviceStepView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +451,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -242,6 +513,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -269,11 +541,15 @@
 				CODE_SIGN_ENTITLEMENTS = BerryController/BerryController.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"BerryController/Preview Content\"";
 				DEVELOPMENT_TEAM = GQE994U6EG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BerryController/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Accessing BerryControl Hubs in your local network.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -282,8 +558,7 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -293,6 +568,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,11 +583,15 @@
 				CODE_SIGN_ENTITLEMENTS = BerryController/BerryController.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"BerryController/Preview Content\"";
 				DEVELOPMENT_TEAM = GQE994U6EG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BerryController/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Accessing BerryControl Hubs in your local network.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -320,8 +600,7 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -331,6 +610,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -359,6 +639,77 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E93673D62B6BB70A00FDD8B7 /* XCRemoteSwiftPackageReference "Ciao" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AlTavares/Ciao.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		E96721882B67C6F40018ACDD /* XCRemoteSwiftPackageReference "berry-openapi-lib" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/BerryControl/berry-openapi-lib";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		E9D20FCE2B8D06F200890873 /* XCRemoteSwiftPackageReference "Steps" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/asam139/Steps.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.3.9;
+			};
+		};
+		E9D20FE72B8E541700890873 /* XCRemoteSwiftPackageReference "TypedAppStorage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/laosb/TypedAppStorage.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.0;
+			};
+		};
+		E9D2100F2B98E85600890873 /* XCRemoteSwiftPackageReference "SwiftUIKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/danielsaidi/SwiftUIKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.1.5;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E93673D72B6BB70A00FDD8B7 /* Ciao */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E93673D62B6BB70A00FDD8B7 /* XCRemoteSwiftPackageReference "Ciao" */;
+			productName = Ciao;
+		};
+		E96721892B67C6F40018ACDD /* BerryOpenAPILib */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E96721882B67C6F40018ACDD /* XCRemoteSwiftPackageReference "berry-openapi-lib" */;
+			productName = BerryOpenAPILib;
+		};
+		E9D20FCF2B8D06F200890873 /* Steps */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E9D20FCE2B8D06F200890873 /* XCRemoteSwiftPackageReference "Steps" */;
+			productName = Steps;
+		};
+		E9D20FE82B8E541700890873 /* TypedAppStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E9D20FE72B8E541700890873 /* XCRemoteSwiftPackageReference "TypedAppStorage" */;
+			productName = TypedAppStorage;
+		};
+		E9D210102B98E85600890873 /* SwiftUIKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E9D2100F2B98E85600890873 /* XCRemoteSwiftPackageReference "SwiftUIKit" */;
+			productName = SwiftUIKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E967215E2B66D9070018ACDD /* Project object */;
 }

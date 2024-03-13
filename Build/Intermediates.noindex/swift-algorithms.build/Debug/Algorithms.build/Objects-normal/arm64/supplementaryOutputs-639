@@ -1,0 +1,18 @@
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/EitherSequence.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/EitherSequence.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/EitherSequence.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/EitherSequence.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/EitherSequence.swiftdeps"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/EitherSequence.d"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/FirstNonNil.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FirstNonNil.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FirstNonNil.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FirstNonNil.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FirstNonNil.swiftdeps"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FirstNonNil.swiftconstvalues"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/FlattenCollection.swift":
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FlattenCollection.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FlattenCollection.dia"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FlattenCollection.o"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FlattenCollection.swiftconstvalues"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/FlattenCollection.d"

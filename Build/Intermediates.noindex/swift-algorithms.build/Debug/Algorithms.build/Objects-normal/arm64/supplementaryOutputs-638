@@ -1,0 +1,18 @@
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/Cycle.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Cycle.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Cycle.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Cycle.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Cycle.swiftdeps"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Cycle.swiftconstvalues"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/Compacted.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Compacted.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Compacted.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Compacted.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Compacted.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Compacted.swiftconstvalues"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-algorithms/Sources/Algorithms/Combinations.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Combinations.swiftconstvalues"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Combinations.d"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Combinations.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Combinations.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-algorithms.build/Debug/Algorithms.build/Objects-normal/arm64/Combinations.o"

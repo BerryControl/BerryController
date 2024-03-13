@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Ciao-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Ciao-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Ciao-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Ciao-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/CiaoBrowser.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoBrowser~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/CiaoResolver.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoResolver~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/CiaoServer.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/CiaoServer~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/Logger.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/Logger~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/NetServiceExtension.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/NetServiceExtension~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/Ciao/Sources/Ciao/ServiceType.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.dia",
+    "index-unit-output-path" : "/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/Ciao.build/Debug/Ciao.build/Objects-normal/arm64/ServiceType~partial.swiftmodule"
+  }
+}

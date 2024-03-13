@@ -1,0 +1,18 @@
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift":
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/StringExtensions.swiftconstvalues"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/StringExtensions.dia"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/StringExtensions.swiftdeps"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/StringExtensions.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/StringExtensions.d"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SequenceExtensions.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SequenceExtensions.swiftdeps"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SequenceExtensions.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SequenceExtensions.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SequenceExtensions.o"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/Tree.dia"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/Tree.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/Tree.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/Tree.swiftdeps"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/Tree.swiftconstvalues"

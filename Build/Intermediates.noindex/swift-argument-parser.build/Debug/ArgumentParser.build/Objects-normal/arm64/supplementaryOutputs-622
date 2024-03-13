@@ -1,0 +1,24 @@
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift":
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParserError.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParserError.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParserError.swiftdeps"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParserError.swiftconstvalues"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParserError.dia"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift":
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParsedValues.d"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParsedValues.o"
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParsedValues.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParsedValues.swiftconstvalues"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/ParsedValues.swiftdeps"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/DumpHelpGenerator.dia"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/DumpHelpGenerator.d"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/DumpHelpGenerator.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/DumpHelpGenerator.o"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/DumpHelpGenerator.swiftdeps"
+"/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift":
+  diagnostics: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SplitArguments.dia"
+  const-values: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SplitArguments.swiftconstvalues"
+  object: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SplitArguments.o"
+  dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SplitArguments.d"
+  swift-dependencies: "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-argument-parser.build/Debug/ArgumentParser.build/Objects-normal/arm64/SplitArguments.swiftdeps"

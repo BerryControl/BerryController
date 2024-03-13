@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/swift-openapi-generator-master.dia",
+    "emit-module-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/swift-openapi-generator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/swift-openapi-generator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/swift-openapi-generator-master.swiftdeps"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/Extensions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/FilterCommand.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/FilterCommand~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/GenerateCommand.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateCommand~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/GenerateOptions.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/GenerateOptions+runGenerator.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/GenerateOptions+runGenerator~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/PluginSource.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/PluginSource~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/runGenerator.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/runGenerator~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/Tool.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/Tool~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/UserConfig.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/UserConfig~partial.swiftmodule"
+  },
+  "/Users/thomas/Library/Developer/Xcode/DerivedData/BerryController-cdipbdpsrcycvobqoxptzhkmoaey/SourcePackages/checkouts/swift-openapi-generator/Sources/swift-openapi-generator/YamlFileDiagnosticsCollector.swift" : {
+    "const-values" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.swiftconstvalues",
+    "dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.d",
+    "diagnostics" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.dia",
+    "index-unit-output-path" : "/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.o",
+    "llvm-bc" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.bc",
+    "object" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.o",
+    "swift-dependencies" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector.swiftdeps",
+    "swiftmodule" : "/Users/thomas/Projects/Universal/BerryControl/BerryController/Build/Intermediates.noindex/swift-openapi-generator.build/Debug/swift-openapi-generator.build/Objects-normal/arm64/YamlFileDiagnosticsCollector~partial.swiftmodule"
+  }
+}
